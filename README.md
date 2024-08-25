@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1mLcFCo9ua-avJcAjfllPy&ust=1724699872885000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICAi-ztkIgDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
